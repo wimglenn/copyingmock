@@ -1,9 +1,9 @@
-from unittest import TestCase
+import unittest
 
 from copyingmock import CopyingMock
 
 
-class CopyingMockTest(TestCase):
+class CopyingMockTest(unittest.TestCase):
 
     def test_copying_mock_copies_mutable_arg(self):
         mock = CopyingMock()
@@ -17,3 +17,7 @@ class CopyingMockTest(TestCase):
     def test_dynamic_attributes_use_copyingmock(self):
         mock = CopyingMock()
         self.assertIsInstance(mock.foo, CopyingMock)
+
+
+if __name__ == '__main__':
+    unittest.main()
