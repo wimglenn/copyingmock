@@ -1,7 +1,7 @@
 Copying Mock
 ============
 
-|travis|_ |coveralls|_ |pypi|_ |womm|_
+|travis|_ |coveralls|_ |pypi|_ |pyversions|_ |womm|_
 
 .. |travis| image:: https://img.shields.io/travis/wimglenn/copyingmock.svg?branch=master
 .. _travis: https://travis-ci.org/wimglenn/copyingmock
@@ -11,6 +11,9 @@ Copying Mock
 
 .. |pypi| image:: https://img.shields.io/pypi/v/copyingmock.svg
 .. _pypi: https://pypi.python.org/pypi/copyingmock
+
+.. |pyversions| image:: https://img.shields.io/pypi/pyversions/copyingmock.svg
+.. _pyversions: 
 
 .. |womm| image:: https://cdn.rawgit.com/nikku/works-on-my-machine/v0.2.0/badge.svg
 .. _womm: https://github.com/nikku/works-on-my-machine
