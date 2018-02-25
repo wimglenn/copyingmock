@@ -14,7 +14,7 @@ with open("README.rst") as f:
 
 setup(
     name='copyingmock',
-    version='0.1',
+    version='0.2',
     description='A subclass of MagicMock that copies the arguments',
     long_description=long_description,
     py_modules=['copyingmock'],
@@ -23,4 +23,5 @@ setup(
     license='MIT',
     url='https://github.com/wimglenn/copyingmock',
     classifiers=classifiers,
+    install_requires=["mock ; python_version<'3.3'"],
 )
