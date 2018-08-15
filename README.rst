@@ -10,7 +10,7 @@ Copying Mock
 .. _coveralls: https://coveralls.io/github/wimglenn/copyingmock?branch=master
 
 .. |pypi| image:: https://img.shields.io/pypi/v/copyingmock.svg
-.. _pypi: https://pypi.python.org/pypi/copyingmock
+.. _pypi: https://pypi.org/project/copyingmock
 
 .. |pyversions| image:: https://img.shields.io/pypi/pyversions/copyingmock.svg
 .. _pyversions: 
