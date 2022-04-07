@@ -1,19 +1,19 @@
 Copying Mock
 ============
 
-|travis|_ |coveralls|_ |pypi|_ |pyversions|_ |womm|_
-
-.. |travis| image:: https://img.shields.io/travis/wimglenn/copyingmock.svg?branch=master
-.. _travis: https://travis-ci.org/wimglenn/copyingmock
-
-.. |coveralls| image:: https://img.shields.io/coveralls/wimglenn/copyingmock.svg
-.. _coveralls: https://coveralls.io/github/wimglenn/copyingmock?branch=master
+|pypi|_ |pyversions|_ |actions|_ |codecov|_ |womm|_
 
 .. |pypi| image:: https://img.shields.io/pypi/v/copyingmock.svg
 .. _pypi: https://pypi.org/project/copyingmock
 
 .. |pyversions| image:: https://img.shields.io/pypi/pyversions/copyingmock.svg
-.. _pyversions: 
+.. _pyversions:
+
+.. |actions| image:: https://github.com/wimglenn/copyingmock/actions/workflows/ci.yml/badge.svg
+.. _actions: https://github.com/wimglenn/copyingmock/actions/workflows/ci.yml/
+
+.. |codecov| image:: https://codecov.io/gh/wimglenn/copyingmock/branch/master/graph/badge.svg
+.. _codecov: https://codecov.io/gh/wimglenn/copyingmock
 
 .. |womm| image:: https://cdn.rawgit.com/nikku/works-on-my-machine/v0.2.0/badge.svg
 .. _womm: https://github.com/nikku/works-on-my-machine
