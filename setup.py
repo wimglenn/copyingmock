@@ -5,7 +5,7 @@ setup(
     name="copyingmock",
     version="0.2",
     description="A subclass of MagicMock that copies the arguments",
-    long_description=open("README.rst").read(),
+    long_description=open("README.md").read(),
     py_modules=["copyingmock"],
     author="Wim Glenn",
     author_email="hey@wimglenn.com",
