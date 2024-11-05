@@ -1,7 +1,7 @@
 Copying Mock
 ============
 
-|pypi|_ |pyversions|_ |actions|_ |codecov|_ |womm|_
+|pypi| |pyversions| |actions| |codecov| |womm|
 
 .. |pypi| image:: https://img.shields.io/pypi/v/copyingmock.svg
 .. _pypi: https://pypi.org/project/copyingmock
@@ -12,7 +12,7 @@ Copying Mock
 .. |actions| image:: https://github.com/wimglenn/copyingmock/actions/workflows/ci.yml/badge.svg
 .. _actions: https://github.com/wimglenn/copyingmock/actions/workflows/ci.yml/
 
-.. |codecov| image:: https://codecov.io/gh/wimglenn/copyingmock/branch/master/graph/badge.svg
+.. |codecov| image:: https://codecov.io/gh/wimglenn/copyingmock/branch/main/graph/badge.svg
 .. _codecov: https://codecov.io/gh/wimglenn/copyingmock
 
 .. |womm| image:: https://cdn.rawgit.com/nikku/works-on-my-machine/v0.2.0/badge.svg
